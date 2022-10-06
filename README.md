@@ -1,9 +1,9 @@
 #### Hi everyone
 #### I am Siarhei Melnik, Software Engineer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m5l14i11&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m5l14i11&count_private=true&theme=onedark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m5l14i11
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m5l14i11&theme=onedark
 )](https://git.io/streak-stats)
 
 ##### Prev: https://github.com/SiarheiMelnik
