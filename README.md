@@ -1,4 +1,5 @@
-#### Hi, I am Siarhei Melnik, Software Engineer
+#### Hi,
+#### I am Siarhei Melnik, Software Engineer
 
 ##### Prev: https://github.com/SiarheiMelnik
 ##### You can contact me at: siarhei_melnik@proton.me
