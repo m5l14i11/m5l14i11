@@ -12,7 +12,7 @@ Recently, I've been working on **LLM agents and AI infrastructure**, including a
 * ⚙️ Distributed & event-driven systems
 * 🚀 Performance engineering & low-latency systems
 * 📡 Real-time data processing
-* 🦀 Rust & Python
+* 🦀 Rust & Python & TypeScript
 * ☁️ AWS & cloud infrastructure
 * 🗄️ PostgreSQL, Redis & data platforms
 
